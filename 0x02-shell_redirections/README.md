@@ -1,0 +1,1 @@
+In this section, I will explore a powerful feature used by command line programs called input/output redirections and with this facility I shall be able to redirect the input and output of commands to and from files as well as connect multiple commands together.
